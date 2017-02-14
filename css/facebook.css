@@ -8,3 +8,7 @@
 SELECTOR {
   DECLARATION BLOCK
 }
+
+body {
+  padding-top: 60px;
+}
